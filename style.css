@@ -1,0 +1,29 @@
+#header {
+  border: 2px solid black;
+  padding: 20px 20px;
+  font-family: sans-serif;
+  margin-right: 300px;
+}
+#heading {
+  border-bottom: 2px solid black;
+  width: 252px;
+}
+#imgh {
+  border-bottom: 2px solid black;
+  width: 70px;
+}
+#img {
+  padding-bottom: 20px;
+}
+#tri {
+  border-bottom: 2px solid black;
+  width: 65px;
+}
+
+.body {
+  font-family: sans-serif;
+  padding-left: 10px;
+}
+#para {
+  width: 900px;
+}
